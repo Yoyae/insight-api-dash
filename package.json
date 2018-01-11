@@ -1,8 +1,8 @@
 {
-  "name": "insight-api-dash",
-  "description": "A Dash blockchain REST and web socket API service for Bitcore Node.",
+  "name": "insight-api-monoeci",
+  "description": "A Monoeci blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.6.0",
-  "repository": "git://github.com/dashevo/insight-api-dash.git",
+  "repository": "git://github.com/yoyae/insight-api-monoeci.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -38,18 +38,18 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/dashevo/insight-api-dash/issues"
+    "url": "https://github.com/yoyae/insight-api-monoeci/issues"
   },
-  "homepage": "https://github.com/dashevo/insight-api-dash",
+  "homepage": "https://github.com/yoyae/insight-api-monoeci",
   "license": "MIT",
   "keywords": [
     "insight",
     "insight api",
     "blockchain",
-    "dash api",
+    "monoeci api",
     "blockchain api",
     "json",
-    "bitcore-dash"
+    "bitcore-monoeci"
   ],
   "engines": {
     "node": ">=0.12.0"
@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-dash": "^0.15.2",
-    "bitcore-message-dash": "^1.0.9",
+    "bitcore-lib-monoeci": "^0.15.2",
+    "bitcore-message-monoeci": "^1.0.9",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "=4.17.1",
