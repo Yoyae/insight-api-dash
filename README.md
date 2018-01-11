@@ -409,7 +409,7 @@ Sample output:
           payment_amount: 5,
           start_epoch: 1482105600,
           type: 1,
-          url: 'https://www.monoeci.org'
+          url: 'https://www.monoeci.io'
         },
         AbsoluteYesCount: 40,
         YesCount: 40,
@@ -436,7 +436,7 @@ Sample output:
           payment_amount: 5,
           start_epoch: 1482105600,
           type: 1,
-          url: 'https://www.monoeci.org'
+          url: 'https://www.monoeci.io'
         },
         CreationTime: 1482223714,
         FundingResult: {
