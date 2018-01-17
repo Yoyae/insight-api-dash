@@ -66,7 +66,7 @@
   "dependencies": {
     "async": "*",
     "bitcore-lib-monoeci": ">0.15.2",
-    "bitcore-message-monoeci": ">1.0.6",
+    "bitcore-message-monoeci": ">=1.0.6",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "=4.17.1",
