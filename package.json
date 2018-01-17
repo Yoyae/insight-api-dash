@@ -1,7 +1,7 @@
 {
   "name": "insight-api-monoeci",
   "description": "A Monoeci blockchain REST and web socket API service for Bitcore Node.",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "repository": "git://github.com/yoyae/insight-api-monoeci.git",
   "contributors": [
     {
@@ -35,6 +35,10 @@
     {
       "name": "Braydon Fuller",
       "email": "braydon@bitpay.com"
+    },
+    {
+      "name": "Francois Gineste",
+      "email": "gingin.fr@gmail.com"
     }
   ],
   "bugs": {
@@ -61,8 +65,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-monoeci": "^0.15.2",
-    "bitcore-message-monoeci": "^1.0.6",
+    "bitcore-lib-monoeci": ">0.15.2",
+    "bitcore-message-monoeci": ">1.0.6",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "=4.17.1",
