@@ -65,8 +65,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-monoeci": ">0.15.2",
-    "bitcore-message-monoeci": ">=1.0.6",
+    "bitcore-lib-monoeci": "yoyae/bitcore-lib-monoeci",
+    "bitcore-message-monoeci": "yoyae/bitcore-message-monoeci",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "=4.17.1",
